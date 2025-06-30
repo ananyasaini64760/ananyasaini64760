@@ -1,16 +1,57 @@
-## Hi there 👋
+# 🚀 Hey there, I'm Ananya Saini!
 
-<!--
-**ananyasaini64760/ananyasaini64760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Final-Year CSE Student | Aspiring Software Engineer  
+🔢 300+ LeetCode Problems Solved | DSA Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+Hello! I'm Ananya, a passionate and curious tech enthusiast currently in my final year of B.Tech in Computer Science. I love solving complex problems, building real-world software, and learning new technologies that make a difference.
+
+My journey revolves around consistency, creativity, and continuous learning — all aimed at becoming a top-notch software developer.
+
+---
+
+## 🚀 My Coding Journey
+
+- 🔍 Solved over **300 LeetCode problems** covering a wide range of topics like:
+  - Arrays, Strings, Linked Lists
+  - Trees, Graphs, Stacks & Queues
+  - Recursion, Backtracking, DP & Greedy
+- 💡 Focused on writing clean, optimized code with proper time/space complexity analysis.
+- 💬 Always exploring new patterns and discussing ideas with peers.
+
+📌 **Check out my [LeetCode Profile](#): https://leetcode.com/u/Ananya640/**
+
+---
+
+## 💼 My Projects
+
+<!-- Add your project cards or links here later -->
+
+🚧 *Projects section coming soon...*
+
+---
+
+## 📄 My Resume
+
+📎 [Download Resume](#)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: **ananyasaini050@gmail.com**  
+- 💼 [LinkedIn](#)  
+- 🌐 [Portfolio Website](#) <!-- (Add link if available) -->
+
+---
+
+## ✨ Fun Fact
+
+I believe in getting **1% better every day**. Whether it's solving a bug, learning a new algorithm, or designing an app — I enjoy the process as much as the result. I also enjoy sharing my learnings and creative experiments through content!
+
+---
+
+> ⭐ *Thanks for visiting my profile! If you like what I do, feel free to connect or collaborate!*
