@@ -36,7 +36,7 @@ My journey revolves around consistency, creativity, and continuous learning — 
 
 ## 📄 My Resume
 
-📎 [https://flowcv.com/resume/9pkuslc494e2](https://flowcv.com/resume/9pkuslc494e2)
+📎 [[https://flowcv.com/resume/9pkuslc494e2](https://flowcv.com/resume/9pkuslc494e2)](https://flowcv.com/resume/9pkuslc494e2)
 
 ---
 
