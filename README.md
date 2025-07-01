@@ -30,7 +30,7 @@ My journey revolves around consistency, creativity, and continuous learning — 
 
 <!-- Add your project cards or links here later -->
 
-🚧 *Projects section coming soon...*
+🚧 *ChatGPT Clone*
 
 ---
 
