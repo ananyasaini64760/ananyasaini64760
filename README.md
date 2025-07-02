@@ -20,7 +20,7 @@ My journey revolves around consistency, creativity, and continuous learning — 
   - Arrays, Strings, Linked Lists
   - Trees, Graphs, Stacks & Queues
   - Recursion, Backtracking, DP & Greedy
-- 💡 Focused on writing clean, optimized code with proper time/space complexity analysis.
+- 💡 Focused on writing clean and optimized code.
 - 💬 Always exploring new patterns and discussing ideas with peers.
 
 📌 Check out my [LeetCode Profile](https://leetcode.com/u/Ananya640/#): 
