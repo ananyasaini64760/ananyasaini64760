@@ -42,14 +42,14 @@ My journey revolves around consistency, creativity, and continuous learning — 
 
 ## 📄 My Resume
 
-📎(https://flowcv.com/resume/9pkuslc494e2)
+[My Resume 📎](https://flowcv.com/resume/9pkuslc494e2)
 
 ---
 
 ## 📫 Let's Connect
 
 - 📧 Email: **ananyasaini050@gmail.com**  
-- 💼 [LinkedIn](#): www.linkedin.com/in/ananya-saini-849aba21a
+- 💼 [LinkedIn 📎](www.linkedin.com/in/ananya-saini-849aba21a)
 
 ---
 
