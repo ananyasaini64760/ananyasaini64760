@@ -1,4 +1,5 @@
-# 🚀 Hey there, I'm Ananya Saini!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Ananya+Saini;Data+Science+%7C+AI+%7C+DSA+Enthusiast;Welcome+to+my+GitHub!&center=true&width=500&height=50)](https://git.io/typing-svg)
+
 
 👩‍💻 Final-Year CSE Student | Aspiring Software Engineer  
 🔢 300+ LeetCode Problems Solved | DSA Enthusiast  
@@ -22,7 +23,12 @@ My journey revolves around consistency, creativity, and continuous learning — 
 - 💡 Focused on writing clean, optimized code with proper time/space complexity analysis.
 - 💬 Always exploring new patterns and discussing ideas with peers.
 
-📌 **Check out my [LeetCode Profile](#): https://leetcode.com/u/Ananya640/**
+📌 Check out my [LeetCode Profile](#): 
+📚 DSA Progress:  
+💻 Coding Practice:
+██████████░░░░░░░░░░░░ 40% Complete
+
+https://leetcode.com/u/Ananya640/
 
 ---
 
