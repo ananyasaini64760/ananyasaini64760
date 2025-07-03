@@ -36,7 +36,7 @@ My journey revolves around consistency, creativity, and continuous learning — 
 
 <!-- Add your project cards or links here later -->
 
-🚧 *ChatGPT Clone*
+🚧 *[ChatGPT Clone](https://github.com/ananyasaini64760/assisstant-ui)*
 
 ---
 
