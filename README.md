@@ -23,10 +23,10 @@ My journey revolves around consistency, creativity, and continuous learning — 
 - 💡 Focused on writing clean and optimized code.
 - 💬 Always exploring new patterns and discussing ideas with peers.
 
-📌 Check out my [LeetCode Profile](https://leetcode.com/u/Ananya640/#): 
+📌 Check out my [LeetCode Profile](https://leetcode.com/u/Ananya640/#):
+
 📚 DSA Progress:  
-💻 Coding Practice:  
-██████████████░░░░░░░░░░ 50% Complete
+ ██████████████░░░░░░░░░░ 50% Complete
 
 
 
