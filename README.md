@@ -26,7 +26,7 @@ My journey revolves around consistency, creativity, and continuous learning — 
 📌 Check out my [LeetCode Profile](https://leetcode.com/u/Ananya640/#):
 
 📚 DSA Progress:  
- ██████████████░░░░░░░░░░ 50% Complete
+ ██████████████░░░░░░░░░░░░░50% Complete
  
 
 ## 💻 Tech Stack
