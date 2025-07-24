@@ -2,7 +2,7 @@
 
 
 👩‍💻 Final-Year CSE Student | Aspiring Software Engineer  
-🔢 300+ LeetCode Problems Solved | DSA Enthusiast  
+🔢 150+ LeetCode Problems Solved | DSA Enthusiast  
 
 ---
 
@@ -16,7 +16,7 @@ My journey revolves around consistency, creativity, and continuous learning — 
 
 ## 🚀 My Coding Journey
 
-- 🔍 Solved over **300 LeetCode problems** covering a wide range of topics like:
+- 🔍 Solved over **150 LeetCode problems** covering a wide range of topics like:
   - Arrays, Strings, Linked Lists
   - Trees, Graphs, Stacks & Queues
   - Recursion, Backtracking, DP & Greedy
