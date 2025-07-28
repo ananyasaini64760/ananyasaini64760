@@ -25,9 +25,9 @@ My journey revolves around consistency, creativity, and continuous learning — 
 
 <!-- 📌 Check out my [LeetCode Profile](https://leetcode.com/u/Ananya640/#): -->
 
-📚 DSA Progress:  
- ███████████░░░░░░░░░░░░░░ 50% Complete
- 
+📚 **DSA Progress**  
+   ██████████░░░░░░░░░░░░ **50%** 
+
 
 ## 💻 Tech Stack
 
@@ -48,6 +48,7 @@ My journey revolves around consistency, creativity, and continuous learning — 
 
 ### 🌐 Web & UI
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFCA28?style=for-the-badge&logo=python&logoColor=3776AB)
 
 ### 📊 Tools & Platforms
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
