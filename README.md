@@ -61,7 +61,7 @@ My journey revolves around consistency, creativity, and continuous learning — 
 
 <!-- Add your project cards or links here later -->
 
-🚧*[ChatGPT Clone](https://github.com/ananyasaini64760/assisstant-ui)*
+🚧*[Google Gemini Clone](https://github.com/ananyasaini64760/assisstant-ui)*
 
 🏠*[House Price Predictor](https://github.com/ananyasaini64760/house-price-predictor)*
 
