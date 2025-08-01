@@ -81,8 +81,8 @@ My journey revolves around consistency, creativity, and continuous learning — 
 
 ## 📫 Let's Connect
 
-- 📧 Email: **ananyasaini050@gmail.com**  
-- 💼 [LinkedIn 📎](www.linkedin.com/in/ananya-saini-849aba21a)
+- 📧 Email ID : **ananyasaini050@gmail.com**  
+- 💼 LinkedIn : [LinkedIn 📎](www.linkedin.com/in/ananya-saini-849aba21a)
 
 ---
 
