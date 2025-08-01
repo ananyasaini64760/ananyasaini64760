@@ -69,6 +69,8 @@ My journey revolves around consistency, creativity, and continuous learning — 
 
 🤖[RAG Loan Chatbot](https://github.com/ananyasaini64760/rag_loan_chatbot)
 
+📊[Zepto Data Analysis](https://github.com/ananyasaini64760/Zepto_Data_Analysis)
+
 ---
 
 ## 📄 My Resume
