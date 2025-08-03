@@ -2,7 +2,7 @@
 
 
 👩‍💻 Final-Year CSE Student | Aspiring Software Engineer  
-🔢 150+ LeetCode Problems Solved | DSA Enthusiast  
+🔢 150+ LeetCode Problems Solved | DSA Enthusiast
 
 ---
 
