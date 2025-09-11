@@ -72,6 +72,8 @@ My journey revolves around consistency, creativity, and continuous learning — 
 
 📊[Zepto Data Analysis](https://github.com/ananyasaini64760/Zepto_Data_Analysis)
 
+📊[Interactive HR Dashboard](https://github.com/ananyasaini64760/Dashboard-Tableau)
+
 ---
 
 ## 📄 My Resume
