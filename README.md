@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Ananya+Saini;Data+Science+%7C+AI+%7C+DSA+Enthusiast;Welcome+to+my+GitHub!&center=true&width=500&height=50)](https://git.io/typing-svg)
 
 
-👩‍💻 Final-Year CSE Student | Aspiring Software Engineer  
+👩‍💻 Final-Year CSE Student | Aspiring Data Sciientist  
 🔢 150+ LeetCode Problems Solved | DSA Enthusiast
 
 ---
