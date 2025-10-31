@@ -16,7 +16,7 @@ My journey revolves around consistency, creativity, and continuous learning — 
 
 ## 🚀 My Coding Journey
 
-- 🔍 Solved over **150 LeetCode problems** covering a wide range of topics like:
+- 🔍 Solved over **130+ LeetCode problems** covering a wide range of topics like:
   - Arrays, Strings, Linked Lists
   - Trees, Graphs, Stacks & Queues
   - Recursion, Backtracking, DP & Greedy
